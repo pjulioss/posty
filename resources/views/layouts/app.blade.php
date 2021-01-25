@@ -18,7 +18,7 @@
         <ul class="flex items-center">
             <li><a href=""class="p-3">Pedro Julio</a></li>
             <li><a href=""class="p-3">Entrar</a></li>
-            <li><a href=""class="p-3">Registro</a></li>
+            <li><a href="{{route('register')}}"class="p-3">Registro</a></li>
             <li><a href=""class="p-3">Sair</a></li>
         </ul>
     </nav>
